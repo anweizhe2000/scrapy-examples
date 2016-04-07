@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+# scrapy crawl dmoz
+# scrapy crawl dmoz -o items.json
+
 import scrapy
 
 from tutorial.items import DmozItem
